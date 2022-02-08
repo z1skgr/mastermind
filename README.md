@@ -1,2 +1,2 @@
-# Mastermind
- Mastermind Game
+# Project Name
+> Outline a brief description of your project.
