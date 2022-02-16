@@ -28,7 +28,7 @@ C Integrated Development Environment (IDE)
 https://github.com/z1skgr/Mastermind/issues/1#issue-1131093566
 
 ## Room for Improvement
-Unlimited executions during the same process.
+Implementation converted to full-stack development (like wordle)
 
 ## Setup
 Basic project for language learning. <br />
