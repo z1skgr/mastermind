@@ -25,6 +25,7 @@ C Integrated Development Environment (IDE)
 ## Features
 
 ## Screenshots
+https://github.com/z1skgr/Mastermind/issues/1#issue-1131093566
 
 ## Room for Improvement
 Unlimited executions during the same process.
