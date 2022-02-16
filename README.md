@@ -1,5 +1,5 @@
 # Mastermind
-> a simple game, variation of the well-known Mastermind. 
+> A simple game, variation of the well-known Mastermind. 
 
 ## Table of contents
 * [General Info](#general-information)
