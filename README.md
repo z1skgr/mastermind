@@ -4,7 +4,6 @@
 ## Table of contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
 * [Setup](#setup)
@@ -23,16 +22,26 @@ digits of a secret number in the decimal numbering system. The player successive
 ## Technologies Used
 C Integrated Development Environment (IDE)
 
+
 ## Screenshots
 https://github.com/z1skgr/Mastermind/issues/1#issue-1131093566
 
 ## Room for Improvement
 Convert program's concept to a full stack development (like wordle)
 
+
 ## Setup
 Basic project for language learning. <br />
 No special libraries need neither 
 external inputs (.txt, etc)
+
+1. Install Cygwin using the following [steps](https://www.youtube.com/watch?v=5b-dzp9HBN4)
+    * gcc
+    * gdb
+    * make
+
+2. Install [Dev C++](https://www.bloodshed.net/)
+
 ## Acknowledgements
 - This project was my very first project as a developer
 - This project was created for the requirements of the lesson Introduction to Computers.
